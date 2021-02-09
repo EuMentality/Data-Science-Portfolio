@@ -4,6 +4,8 @@
 ### У вас есть возможность ознакомиться с ними немного подробнее тут: 
    - [Educational practice](https://github.com/EuMentality/Educational_practice)
    - [ML & DA](https://github.com/EuMentality/ML-DA)
+   
+### Для просмотра ноутбуков, переходите по ссылке.
 
 # Machine Learning
 
