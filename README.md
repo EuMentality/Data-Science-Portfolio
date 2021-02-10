@@ -1,12 +1,10 @@
 # Data Science Portfolio
 ### На данной странице можно ознакомиться с частью моих работ, выполненных в ходе академической и самообразовательной деятельностей
 
-### Подробнее ознакомиться можно тут: 
+### Ознакомиться подробнее можно тут: 
    - [Educational practice](https://github.com/EuMentality/Educational_practice)
    - [ML & DA](https://github.com/EuMentality/ML-DA)
    
-### Для просмотра ноутбуков, переходите по ссылке.
-
 # Machine Learning
 
 ## [Отток клиентов в продуктовом ритейле](https://nbviewer.jupyter.org/github/EuMentality/ML-DA/blob/main/notebooks/forecasting_customer_churn.ipynb)
