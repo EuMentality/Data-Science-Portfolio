@@ -9,7 +9,7 @@
 
 # Machine Learning
 
-## [Предсказание оттока клиентов в продуктовом ритейле](https://nbviewer.jupyter.org/github/EuMentality/ML-DA/blob/main/notebooks/forecasting_customer_churn.ipynb)
+## [Отток клиентов в продуктовом ритейле](https://nbviewer.jupyter.org/github/EuMentality/ML-DA/blob/main/notebooks/forecasting_customer_churn.ipynb)
 #### По данным российской сети гипермаркетов следовало проанализировать поведение клиентов, определить оптимальную методологию определения отточных клиентов. По выбранной методологии разработать модель вероятности оттока. 
 
 ## [Предобработка данных и логистическая регрессия для задачи бинарной классификации](https://nbviewer.jupyter.org/github/EuMentality/Educational_practice/blob/main/notebooks/Log_reg_preprocessing.ipynb)
