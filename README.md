@@ -7,6 +7,10 @@
    
 # Machine Learning
 
+## [New York City Taxi Trip Duration](https://nbviewer.jupyter.org/github/EuMentality/ML-DA/blob/main/notebooks/taxi_trip_duration.ipynb)
+#### [Kaggle competition](https://www.kaggle.com/c/nyc-taxi-trip-duration/overview)
+#### На основе индивидуальных характеристик поездки в этом соревнованиии предлагается спрогнозировать продолжительность поездки на такси в Нью-Йорке. Данные предоставлены комиссией по такси и лимузинам Нью-Йорка.
+
 ## [Отток клиентов в продуктовом ритейле](https://nbviewer.jupyter.org/github/EuMentality/ML-DA/blob/main/notebooks/forecasting_customer_churn.ipynb)
 #### По данным российской сети гипермаркетов следовало проанализировать поведение клиентов, определить оптимальную методологию определения отточных клиентов. По выбранной методологии разработать модель вероятности оттока. 
 
